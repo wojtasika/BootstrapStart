@@ -1,0 +1,33 @@
+.height {
+    height: 50px;
+    margin-bottom: 10px;
+}
+
+.red {
+    background-color: red;
+}
+
+.green {
+    background-color: green;
+}
+
+.yellow {
+    height: 50px;
+    background-color: yellow;
+}
+
+.btn-violet {
+    color: #fff;
+    background-color: #e603f8;
+    border-color: #e603f8; 
+}
+
+.bnt-violet:hover {
+    background-color: #ba01c9;
+    border-color: #ba01c9;
+}
+
+.karuzela img {
+    height:  400px;
+    object-fit: cover;
+}
